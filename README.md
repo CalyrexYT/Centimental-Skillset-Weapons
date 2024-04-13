@@ -5,7 +5,9 @@ This mod is specifically created for the Centimental SMP. It adds weapons (that 
 
 ## Usage
 
-Downloading this file, and running it in an IDE should create a full editible source file
+Download the jar file named: skillset-centimental-[version number]-mc1.20.4.jar
+Add it to the fabric mods folder in minecraft
+Run fabric 1.20.4 v0.15.6
 
 ##  Weapons added:
 

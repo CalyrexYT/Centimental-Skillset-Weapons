@@ -79,3 +79,8 @@ v0.3.4
 v0.3.5
 - Black hole now attracts non-living entities the strongest, non-player mobs second strongest, and players the weakest
 - Fixed Prison of souls unlimited sharpness stacking, maxed at lvl 50
+
+v0.3.6
+- Black hole now applies multiple negative effects when the 10 sec duration ends
+- Rebalanced the amount of velocity the black hole applies onto living entities and players
+- Fixed Prison of souls sharpness stacking (prev reaches 51)

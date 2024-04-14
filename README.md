@@ -75,3 +75,6 @@ v0.3.4
 - Black hole now adds the attraction velocity instead of overwriting it (entities maintain their initial velocty, such as arrows, pearls, now still have their momentum)
 - Buffed wither damage to be wither V
 - Fixed issue where if the mjolnir hits an entity, the explosion is still lvl 7 (fixed to 4)
+
+v0.3.5
+- Black hole now attracts non-living entities the strongest, non-player mobs second strongest, and players the weakest

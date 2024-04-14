@@ -84,3 +84,9 @@ v0.3.6
 - Black hole now applies multiple negative effects when the 10 sec duration ends
 - Rebalanced the amount of velocity the black hole applies onto living entities and players
 - Fixed Prison of souls sharpness stacking (prev reaches 51)
+
+## Known Bugs
+- Explosion from mjolnir sometimes create ghost blocks
+- Model of thrown mjolnir is buggy
+- Prison of souls removes all enchantments when upgraded
+- Black hole spawns when hit is registered, meaning you can spam hit the weapon to spawn black holes really quickly

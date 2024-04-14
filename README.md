@@ -78,3 +78,4 @@ v0.3.4
 
 v0.3.5
 - Black hole now attracts non-living entities the strongest, non-player mobs second strongest, and players the weakest
+- Fixed Prison of souls unlimited sharpness stacking, maxed at lvl 50

@@ -15,21 +15,21 @@ Run fabric 1.20.4 v0.15.6
 - Mid-endgame item
 - Every kill increases the sword's sharpness level by 1, the highest level is 50
 - The higher the sharpness level, the harder it is to upgrade it's sharpness (to upgrade from lvl 1-2 is 90% chance, lvl 2-3 is 86% chance, etc.)
-- Base damage 7
+- Base damage 8
 
 2. Mjolnir:
 - Endgame item
 - Obtained from killing the ender dragon, drops once
 - Cannot be destroyed (i.e cactus, lava, void, fire)
 - When thrown, explodes on impact; If it hits a mob, strikes lightning as well
-- Base damage 10
+- Base damage 11
 
 3. Chorus of the Void (WIP):
 - Endgame item
 - 10% chance to create a black hole on hit: black hole sucks in entities in a 15 blocks radius (all entities are forced to follow trajectory towards black hole)
 - if in contact with the black hole, deals wither 5 level damage
 - Can create up to one pairs of portals, allow for fast travel, portals disappear when player enters and exits (WIP)
-- Base damage 9
+- Base damage 14
 
 ## Change Log
 v0.1.0
@@ -84,6 +84,11 @@ v0.3.6
 - Black hole now applies multiple negative effects when the 10 sec duration ends
 - Rebalanced the amount of velocity the black hole applies onto living entities and players
 - Fixed Prison of souls sharpness stacking (prev reaches 51)
+
+v0.3.7
+- Black hole end effects are now applied for 10 seconds instead of 10 ticks (0.5 sec)
+- Buffed all weapon damages
+- Fixed several instances of redundant code
 
 ## Known Bugs
 - Explosion from mjolnir sometimes create ghost blocks

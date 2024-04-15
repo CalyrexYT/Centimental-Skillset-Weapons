@@ -94,7 +94,7 @@ v0.3.8
 - Changed Mjolnir explosion type to hopefully fix ghost blocks? (not confirmed)
 - Added portals for chorus of the void, summoned by holding the weapon and pressing the keybind (default R)
 - Updated known bugs
-- 
+  
 ## Known Bugs
 - Explosion from mjolnir sometimes create ghost blocks(fixed but not confirmed)
 - Model of thrown mjolnir is buggy

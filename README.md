@@ -90,8 +90,14 @@ v0.3.7
 - Buffed all weapon damages
 - Fixed several instances of redundant code
 
+v0.3.8
+- Changed Mjolnir explosion type to hopefully fix ghost blocks? (not confirmed)
+- Added portals for chorus of the void, summoned by holding the weapon and pressing the keybind (default R)
+- Updated known bugs
+- 
 ## Known Bugs
-- Explosion from mjolnir sometimes create ghost blocks
+- Explosion from mjolnir sometimes create ghost blocks(fixed but not confirmed)
 - Model of thrown mjolnir is buggy
 - Prison of souls removes all enchantments when upgraded
 - Black hole spawns when hit is registered, meaning you can spam hit the weapon to spawn black holes really quickly
+- Portals are supposed to disppear when a player enters, but it only removes the one you entered, not the one you exited

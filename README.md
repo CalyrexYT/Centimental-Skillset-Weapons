@@ -57,7 +57,6 @@ v0.3.0
 
 v0.3.1
 - Added black hole feature to chorus of the void
-- Added Riptide feature to mjolnir (crouch and throw to riptide, riptide 5)
 
 v0.3.2
 - Added black hole velocity feature (no longer tp entities)
@@ -94,6 +93,10 @@ v0.3.8
 - Changed Mjolnir explosion type to hopefully fix ghost blocks? (not confirmed)
 - Added portals for chorus of the void, summoned by holding the weapon and pressing the keybind (default R)
 - Updated known bugs
+
+v0.3.9
+- Mjolnir explosing type did not fix ghost blocks, now reverted to mob explosion to increase the blast range
+- Added a fun new feature for a certain weapon that is very hard to obtain!
   
 ## Known Bugs
 - Explosion from mjolnir sometimes create ghost blocks(fixed but not confirmed)

@@ -41,7 +41,6 @@ v0.1.1
 -  Buffed Prison of souls damage to 7 (prev 6)
 
 <strong>v0.2.0</strong>
-- <strong>Huge update</strong>
 - Added Mjolnir
 
 v0.2.1

@@ -1,6 +1,6 @@
 # Skillset Centimental Season 2: Weapons
 
-This mod is specifically created for the Centimental SMP. It adds weapons (that have abilities) to Minecraft 1.20.4 (will be updated to 1.20.5, then 1.21)
+This mod is specifically created for the Centimental SMP. It adds weapons (that have abilities) to Minecraft 1.20.5 (releasing next week) (then 1.20.6, 1.21)
 
 
 ## Usage
@@ -41,6 +41,7 @@ v0.1.1
 -  Buffed Prison of souls damage to 7 (prev 6)
 
 v0.2.0
+- <strong>Huge update</strong>
 - Added Mjolnir
 
 v0.2.1
@@ -53,6 +54,7 @@ v0.2.2
 - Nerfed Mjolnir melee damage to 10
 
 v0.3.0
+- <strong>Huge update</strong>
 - Added Chorus of the Void
 
 v0.3.1
@@ -97,7 +99,15 @@ v0.3.8
 v0.3.9
 - Mjolnir explosing type did not fix ghost blocks, now reverted to mob explosion to increase the blast range
 - Added a fun new feature for a certain weapon that is very hard to obtain!
-  
+
+v0.4.0
+- <strong>Huge update</strong>
+- Crafting recipies added to chorus of the void and prison of souls
+- New ore added to the end! Chorus ore, spawns more rarely than netherite
+- Chorus armor will be added soon
+
+MORE EXCITING UPDATES COMING SOON!
+
 ## Known Bugs
 - Explosion from mjolnir sometimes create ghost blocks(fixed but not confirmed)
 - Model of thrown mjolnir is buggy

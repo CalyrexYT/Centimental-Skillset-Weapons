@@ -32,7 +32,7 @@ Run fabric 1.20.4 v0.15.6
 - Base damage 14
 
 ## Change Log
-v0.1.0
+<strong>v0.1.0</strong>
 -  Added Prison of Souls
 
 v0.1.1
@@ -40,7 +40,7 @@ v0.1.1
 -  Buffed Prison of souls increment chance
 -  Buffed Prison of souls damage to 7 (prev 6)
 
-v0.2.0
+<strong>v0.2.0</strong>
 - <strong>Huge update</strong>
 - Added Mjolnir
 
@@ -53,8 +53,7 @@ v0.2.2
 - Buffed Prison of souls sharpness increment, max sharp 50
 - Nerfed Mjolnir melee damage to 10
 
-v0.3.0
-- <strong>Huge update</strong>
+<strong>v0.3.0</strong>
 - Added Chorus of the Void
 
 v0.3.1
@@ -100,8 +99,7 @@ v0.3.9
 - Mjolnir explosing type did not fix ghost blocks, now reverted to mob explosion to increase the blast range
 - Added a fun new feature for a certain weapon that is very hard to obtain!
 
-v0.4.0
-- <strong>Huge update</strong>
+<strong>v0.4.0</strong>
 - Crafting recipies added to chorus of the void and prison of souls
 - New ore added to the end! Chorus ore, spawns more rarely than netherite
 - Chorus armor will be added soon

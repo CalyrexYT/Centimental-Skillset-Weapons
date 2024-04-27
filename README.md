@@ -101,6 +101,7 @@ v0.3.9
 v0.3.10
 - Added new block chorus ore, no functionality yet
 - Updated how prison of souls work, now there is a chance for the sharpness level to decrease too
+- Uploading file to release section now
 
 MORE EXCITING UPDATES COMING SOON!
 

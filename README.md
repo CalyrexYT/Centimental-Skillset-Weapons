@@ -99,9 +99,9 @@ v0.3.9
 - Added a fun new feature for a certain weapon that is very hard to obtain!
 
 <strong>v0.4.0</strong>
-- Crafting recipies added to chorus of the void and prison of souls
-- New ore added to the end! Chorus ore, spawns more rarely than netherite
-- Chorus armor will be added soon
+- Crafting recipies added to chorus of the void and prison of souls (doesn't work yet)
+- New ore added to the end! Chorus ore, spawns more rarely than netherite (also doesn't work yet)
+- Chorus armor will be added soon 
 
 MORE EXCITING UPDATES COMING SOON!
 

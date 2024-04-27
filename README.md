@@ -98,10 +98,9 @@ v0.3.9
 - Mjolnir explosing type did not fix ghost blocks, now reverted to mob explosion to increase the blast range
 - Added a fun new feature for a certain weapon that is very hard to obtain!
 
-<strong>v0.4.0</strong>
-- Crafting recipies added to chorus of the void and prison of souls (doesn't work yet)
-- New ore added to the end! Chorus ore, spawns more rarely than netherite (also doesn't work yet)
-- Chorus armor will be added soon 
+v0.3.10
+- Added new block chorus ore, no functionality yet
+- Updated how prison of souls work, now there is a chance for the sharpness level to decrease too
 
 MORE EXCITING UPDATES COMING SOON!
 

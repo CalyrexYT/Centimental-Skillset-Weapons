@@ -9,6 +9,16 @@ Download the jar file named: skillset-centimental-[version number]-mc1.20.4.jar
 Add it to the fabric mods folder in minecraft
 Run fabric 1.20.4 v0.15.6
 
+MORE EXCITING UPDATES COMING SOON!
+
+## Known Bugs
+- Explosion from mjolnir sometimes create ghost blocks(fixed but not confirmed)
+- Model of thrown mjolnir is buggy
+- Prison of souls removes all enchantments when upgraded
+- Black hole spawns when hit is registered, meaning you can spam hit the weapon to spawn black holes really quickly
+- Portals are supposed to disppear when a player enters, but it only removes the one you entered, not the one you exited
+- Portals are not limited to two sets
+
 ##  Weapons added:
 
 1. Prison of Souls:
@@ -102,13 +112,4 @@ v0.3.10
 - Added new block chorus ore, no functionality yet
 - Updated how prison of souls work, now there is a chance for the sharpness level to decrease too
 - Uploading file to release section now
-
-MORE EXCITING UPDATES COMING SOON!
-
-## Known Bugs
-- Explosion from mjolnir sometimes create ghost blocks(fixed but not confirmed)
-- Model of thrown mjolnir is buggy
-- Prison of souls removes all enchantments when upgraded
-- Black hole spawns when hit is registered, meaning you can spam hit the weapon to spawn black holes really quickly
-- Portals are supposed to disppear when a player enters, but it only removes the one you entered, not the one you exited
-- Portals are not limited to two sets
+- This section is no longer maintained, check releases for details

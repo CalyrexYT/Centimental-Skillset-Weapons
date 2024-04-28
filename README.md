@@ -112,4 +112,8 @@ v0.3.10
 - Added new block chorus ore, no functionality yet
 - Updated how prison of souls work, now there is a chance for the sharpness level to decrease too
 - Uploading file to release section now
-- This section is no longer maintained, check releases for details
+
+v0.3.11
+- Created new tool material (temporarily set to chorus ore)
+- Updated Chorus of the void attack damage
+- Updated Prison of souls and chorus of the void durability

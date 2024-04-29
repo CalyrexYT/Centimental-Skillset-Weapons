@@ -52,12 +52,3 @@ MORE EXCITING UPDATES COMING SOON!
 - Every hit has a 50% chance to heal 50% of inflicted damage and 50% of healing 100% infliced damage
 - Base damage 9
 
-v0.3.10
-- Added new block chorus ore, no functionality yet
-- Updated how prison of souls work, now there is a chance for the sharpness level to decrease too
-- Uploading file to release section now
-
-v0.3.11
-- Created new tool material (temporarily set to chorus ore)
-- Updated Chorus of the void attack damage
-- Updated Prison of souls and chorus of the void durability

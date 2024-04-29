@@ -47,72 +47,10 @@ MORE EXCITING UPDATES COMING SOON!
 - Gives resistance 5 for 2 sec if teleported
 - Base damage 7
 
-## Change Log
-<strong>v0.1.0</strong>
--  Added Prison of Souls
-
-v0.1.1
--  Nerfed Prison of souls sharpness increment, max sharp 30
--  Buffed Prison of souls increment chance
--  Buffed Prison of souls damage to 7 (prev 6)
-
-<strong>v0.2.0</strong>
-- Added Mjolnir
-
-v0.2.1
-- Nerfed Mjolnir explosion size to 4 (charged creeper) previous 7 (bedrock wither/larger than crystal)
-- Fixed Prison of souls increment
-- Fixed Mjolnir void teleportation issue, now teleports when its at bedrock level or lower
-
-v0.2.2
-- Buffed Prison of souls sharpness increment, max sharp 50
-- Nerfed Mjolnir melee damage to 10
-
-<strong>v0.3.0</strong>
-- Added Chorus of the Void
-
-v0.3.1
-- Added black hole feature to chorus of the void
-
-v0.3.2
-- Added black hole velocity feature (no longer tp entities)
-- Apply wither damage to non-player entities, wither IV
-- Black hole no longer affects non-living entities
-
-v0.3.3
-- Nerfed black hole velocity feature to be 60% slower
-- Black hole affects non-living entities again
-- All entities now follow path towards black hole no matter their initial velocity
-- Fixed mjolnir despawn issue when inside black hole
-- Fixed wither effect range to be 3 blocks around the black hole (prev 15)
-
-v0.3.4
-- Black hole now adds the attraction velocity instead of overwriting it (entities maintain their initial velocty, such as arrows, pearls, now still have their momentum)
-- Buffed wither damage to be wither V
-- Fixed issue where if the mjolnir hits an entity, the explosion is still lvl 7 (fixed to 4)
-
-v0.3.5
-- Black hole now attracts non-living entities the strongest, non-player mobs second strongest, and players the weakest
-- Fixed Prison of souls unlimited sharpness stacking, maxed at lvl 50
-
-v0.3.6
-- Black hole now applies multiple negative effects when the 10 sec duration ends
-- Rebalanced the amount of velocity the black hole applies onto living entities and players
-- Fixed Prison of souls sharpness stacking (prev reaches 51)
-
-v0.3.7
-- Black hole end effects are now applied for 10 seconds instead of 10 ticks (0.5 sec)
-- Buffed all weapon damages
-- Fixed several instances of redundant code
-
-v0.3.8
-- Changed Mjolnir explosion type to hopefully fix ghost blocks? (not confirmed)
-- Added portals for chorus of the void, summoned by holding the weapon and pressing the keybind (default R)
-- Updated known bugs
-
-v0.3.9
-- Mjolnir explosing type did not fix ghost blocks, now reverted to mob explosion to increase the blast range
-- Added a fun new feature for a certain weapon that is very hard to obtain!
+5. Thanotasian Scythe:
+- Endgame item
+- Every hit has a 50% chance to heal 50% of inflicted damage and 50% of healing 100% infliced damage
+- Base damage 9
 
 v0.3.10
 - Added new block chorus ore, no functionality yet

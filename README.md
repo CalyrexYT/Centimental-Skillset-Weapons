@@ -38,7 +38,7 @@ MORE EXCITING UPDATES COMING SOON!
 - Endgame item
 - 10% chance to create a black hole on hit: black hole sucks in entities in a 15 blocks radius (all entities are forced to follow trajectory towards black hole)
 - if in contact with the black hole, deals wither 5 level damage
-- Can create up to one pairs of portals, allow for fast travel, portals disappear when player enters and exits (WIP)
+- Can create up to one pairs of portals, allow for fast travel, portals disappear when player enters and exits
 - Base damage 9
 
 4. Blade of Dimensions:

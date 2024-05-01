@@ -18,6 +18,7 @@ MORE EXCITING UPDATES COMING SOON!
 - Black hole spawns when hit is registered, meaning you can spam hit the weapon to spawn black holes really quickly
 - Portals are supposed to disppear when a player enters, but it only removes the one you entered, not the one you exited
 - Portals are not limited to two sets
+- Chorus Armor doesn't have a texture when in inventory yet
 
 ##  Weapons added:
 
